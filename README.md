@@ -50,5 +50,5 @@ __ warning | info | success | error __
 2. Подключить файл CSS в "Внешний вид сайта" / Add a CSS file to "Site Appearance"
 
 ```
-
+@import url("https://raw.githubusercontent.com/iexdev/shikimori-info-card/refs/heads/main/shikimori-info-card.css");
 ```
